@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - delegate</string>
+	<string>#pragma mark - Delegate</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C9D32D7D-3777-448A-9506-A565A8D2DDBE</string>
 	<key>IDECodeSnippetLanguage</key>
